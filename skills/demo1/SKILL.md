@@ -1,7 +1,7 @@
 ---
 name: demo1
-description: 创建Python 算法示例代码
-version: 1.0.1
+description: 创建Python 算法示例代码增强版2
+version: 1.0.2
 ---
 
 创建Python算法示例。
